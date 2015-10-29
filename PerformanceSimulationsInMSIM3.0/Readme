@@ -1,0 +1,5 @@
+#Performance evaluation of Simultaneous Multi Threading (SMT) of Single Core Processors in M-Sim
+
+Research Project
+----------------
+Abstract: Simultaneous Multi-Threading (SMT) is an effective technique to increase the Instructions-Per-Cycle (IPC) of a Superscalar Processor without considerable hardware additions. SMT utilizes the available resources efficiently thereby hiding the latencies in traditional Superscalar systems. It is achieved through Hardware Multi-Threading, by utilizing key data path components like issue queue and the physical register file and write buffer permitting multiple independent threads of executions at once. The variations in size of these key components will change the overall throughput/IPC of the system. The project studies these variations and their impact on IPC, concluding at a holistic understanding of SMT and the main parameters that determine the overall performance of it
